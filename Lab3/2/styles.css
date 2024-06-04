@@ -1,0 +1,10 @@
+
+  .text{
+    position: relative;
+    top: 52px;
+  }
+
+  .img {
+    position: relative;
+    z-index: -1;
+  }
